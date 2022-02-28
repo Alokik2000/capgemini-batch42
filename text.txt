@@ -1,0 +1,6 @@
+This is first line.
+
+this is first day using git.
+
+feeling great.
+its a good day!
