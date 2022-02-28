@@ -3,4 +3,4 @@ This is  line.
 this is first day using git.
 
 feeling great.
-its a good !
+its a good day!
